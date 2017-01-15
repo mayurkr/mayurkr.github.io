@@ -1,2 +1,3 @@
 # mayurkr.github.io
-My Blog
+
+Source code for my personal blog
